@@ -1,6 +1,6 @@
-- 👋 Hi, I’m keyokemona
+- 👋 Hi, I’m keyo!
 - 👀 I’m interested in coding and cybersecurity
-- 🌱 I’m currently learning Python, MITRE ATT&CK and... A LOT OF STUFF :D
+- 🌱 I’m currently learning programmimg and pentesting (towards to web and bughunting)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=keyokemona&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
