@@ -1,5 +1,5 @@
 - 👋 Hi, I’m keyo!
-- 👀 I’m interested in coding and cybersecurity
+- 👀 I’m a furry looking forward about coding and cybersecurity (purple team)
 - 🌱 I’m currently learning programmimg and pentesting (for web and bughunting)
 
 <div align="center">
