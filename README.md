@@ -1,6 +1,6 @@
 ## Sobre mim 📝
 
-Olá, eu sou _keyokemona_, um furry apaixonado pela área de **desenvolvimento** e **cybersecurity**, cujo está ingressando firmemente na parte de `pentesting` e `bughunting`!
+Olá, eu sou _keyokemona_, um furry apaixonado pela área de **desenvolvimento** e **cybersecurity**, cujo está ingressando firmemente na parte de `pentesting`, `reverse engineering` e `bughunting`!
 
 Atualmente atuo no contexto de blue-team, trabalhando com a implantação e administração de diversas ferramentas de proteção de redes, identidades e endpoints em diversas empresas do grande mercado.
 
